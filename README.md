@@ -9,10 +9,13 @@ Interested in Full stack development using React and Nodejs recently commited wi
 *   🌍  I'm based in Nagercoil
 *   ✉️  You can contact me at [c.a.narain2002@gmail.com](mailto:c.a.narain2002@gmail.com)
 *   🧠  I'm learning React, Nodejs, Javascript, Dynamic programmig
-*   ⚡  Part time Chef and Philosophical Teacher<a href="https://www.github.com/c-a-narain" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/c-a-narain?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a><a href="https://www.twitter.com/narain_c_a" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/narain_c_a?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
-                /></a>### Skills 
+*   ⚡  Part time Chef and Philosophical Teacher
+
+<a href="https://www.github.com/c-a-narain" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/c-a-narain?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a><a href="https://www.twitter.com/narain_c_a" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/narain_c_a?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"/></a>
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
