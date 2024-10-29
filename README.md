@@ -6,7 +6,7 @@ Full Stack Developer
 
 Interested in Full stack development using React and Nodejs recently commited with javascript
 
-*   🌍  I'm based in Nagercoil
+*   🌍  I'm based in Chennai
 *   ✉️  You can contact me at [c.a.narain2002@gmail.com](mailto:c.a.narain2002@gmail.com)
 *   🧠  I'm learning React, Nodejs, Javascript, Dynamic programmig
 *   ⚡  Part time Chef and Philosophical Teacher
